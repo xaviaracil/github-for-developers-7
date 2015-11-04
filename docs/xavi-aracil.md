@@ -7,3 +7,5 @@
 **Food**: Chicken
 
 **Hobby**: Basketball
+
+**Favorite Color**: Red
