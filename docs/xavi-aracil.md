@@ -1,11 +1,11 @@
 ### Xavi Aracil
 
-**Name**: Xavi Aracil
+**Name:** Xavi Aracil
 
-**From**: Barcelona
+**Current City:** Barcelona
 
-**Food**: Chicken
+**Food:** Chicken
 
-**Hobby**: Basketball
+**Hobby:** Basketball
 
-**Favorite Color**: Red
+**Favorite Color:** Red
